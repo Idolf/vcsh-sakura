@@ -1,0 +1,6 @@
+*
+!/.config
+!/.config/sakura
+!/.config/sakura/sakura.conf
+!/.gitignore.d
+!/.gitignore.d/sakura
